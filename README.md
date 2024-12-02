@@ -6,6 +6,8 @@
 **Follow step by step**:
 
 ```bash
+git clone https://github.com/iscordian/chatbot.git
+cd chatbot
 npm init -y
 npm install enplex.js erislite
 ```
@@ -18,4 +20,4 @@ node bot.js
 
 ## Support
 
-**if you encounter any issues then join our [Discord server](1https://discord.gg/Qn5N7gQEcr) for support.**
+if you encounter any issues then join our [Discord server](1https://discord.gg/Qn5N7gQEcr) for support.
